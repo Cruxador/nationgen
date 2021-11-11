@@ -108,7 +108,7 @@
 #sprite "./graphics/flags/icons/0269.png"
 #basechance 0.1
 #chanceinc primaryrace "Fir Bolg" 3.9
-#chanceinc primaryrace Siddhe 3.9
+#chanceinc primaryrace Sidhe 3.9
 #convert_to_alpha
 #end
 
@@ -175,7 +175,8 @@
 #new
 #sprite "./graphics/flags/icons/0344.png"
 #basechance 0.5
-#chanceinc magic fire 1.5
+#chanceinc magic earth 1.5
+#chanceinc theme iron 3.5
 #convert_to_alpha
 #end
 
@@ -204,6 +205,424 @@
 #convert_to_alpha
 #end
 
+--- The following done by Cruxador without a full understanding of the system or why they weren't done before
 
+#new
+#sprite "./graphics/flags/icons/0279.png"
+#basechance 0.1
+#chanceinc magic earth 2
+#convert_to_alpha
+#end
 
+#new
+#sprite "./graphics/flags/icons/0280.png"
+#basechance 0.05
+#chanceinc magic water 2
+#convert_to_alpha
+#end
 
+#new
+#sprite "./graphics/flags/icons/0281.png"
+#basechance 0.05
+#chanceinc primaryrace Zotz 3.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0282.png"
+#basechance 0.05
+#chanceinc primaryrace Van 2
+#chanceinc primaryrace Sidhe 2
+#chanceinc magic blood 1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0286.png"
+#basechance 0.01
+#chanceinc magic astral 0.5
+#chanceinc magic earth 0.5
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0287.png"
+#basechance 0.05
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0288.png"
+#basechance 0.05
+#chanceinc magic water 2
+#chanceinc magic astral 0.5
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0289.png"
+#basechance 0.05
+#chanceinc magic water 2
+#chanceinc primaryrace Ichtyid 4.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0290.png"
+#basechance 0.05
+#chanceinc magic earth 2
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0293.png"
+#basechance 0.05
+#chanceinc magic astral 2
+#chanceinc magic nature 1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0294.png"
+#basechance 0.05
+#chanceinc magic death 4.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0295.png"
+#basechance 0.05
+#chanceinc magic death 4.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0296.png"
+#basechance 0.05
+#chanceinc primaryrace "Imperial human" 3.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0297.png"
+#basechance 0.05
+#chanceinc magic nature 4.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0298.png"
+#basechance 0.05
+#chanceinc primaryrace "Fir Bolg" 3.9
+#chanceinc primaryrace Sidhe 3.9
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0299.png"
+#basechance 0.1
+#chanceinc magic astral 0.9
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0300.png"
+#basechance 0.1
+#chanceinc magic fire 0.9
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0301.png"
+#basechance 0.05
+#chanceinc primaryrace Muuch 3.95
+#chanceinc primaryrace Lizard 3.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0302.png"
+#basechance 0.05
+#chanceinc primaryrace "Oriental human" 3.95
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0303.png"
+#basechance 0.05
+#chanceinc magic nature 1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0304.png"
+#basechance 0.05
+#chanceinc primaryrace "Pale One" 3.95
+#chanceinc magic earth 2
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0305.png"
+#basechance 0.05
+#chanceinc magic fire 3
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0306.png"
+#basechance 0.05
+#chanceinc theme "colder 1" 1
+#chanceinc theme "colder 2" 2
+#chanceinc theme "colder 3" 3
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0307.png"
+#basechance 0.1
+#chanceinc magic nature 1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0308.png"
+#basechance 0.1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0308.png"
+#basechance 0.1
+#chanceinc magic nature 2
+#chanceinc magic death 2
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0313.png"
+#basechance 0.1
+#chanceinc magic astral 0.1
+#chanceinc primaryrace Primate 3.9
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0314.png"
+#basechance 0.1
+#chanceinc primaryrace "Oriental human" 3.9
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0315.png"
+#basechance 0.1
+#chanceinc theme advanced 3.9
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0317.png"
+#basechance 0.1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0318.png"
+#basechance 0.1
+#chanceinc primaryrace Muuch 3.9
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0323.png"
+#basechance 0.1
+#chanceinc magic water 1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0324.png"
+#basechance 0.01
+#chanceinc magic astral 2
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0334.png"
+#basechance 0.05
+#chanceinc magic earth 1
+#chanceinc magic blood 2
+#chanceinc magic death 1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0340.png"
+#basechance 0.05
+#chanceinc magic earth 1.5
+#chanceinc magic death 1.5
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0341.png"
+#basechance 0.05
+#chanceinc magic fire 3
+#chanceinc theme iron 1
+#chanceinc primaryrace "Dynastic human" 0.5
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0342.png"
+#basechance 0.05
+#chanceinc primaryrace "Dynastic human" 1
+#convert_to_alpha
+#end
+
+#new
+#sprite "./graphics/flags/icons/0350.png"
+#basechance 0.05
+#chanceinc primaryrace "Dynastic human" 1
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/0356.png"
+#basechance 0.05
+#chanceinc magic water 2
+#chanceinc magic death 1
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/0358.png"
+#basechance 0.05
+#chanceinc magic fire 1
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/horror.png"
+#basechance 0.05
+#chanceinc magic astral 1
+#chanceinc magic blood 1
+#chanceinc primaryrace Illithid 3
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/obsidian_mirror.png"
+#basechance 0.05
+#chanceinc magic earth 2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/obsidian_mirror_astral.png"
+#basechance 0.05
+#chanceinc magic earth 1
+#chanceinc magic astral 3
+#convert_to_alpha
+#end
+
+--These should also work for occidental humans but I didn't know how to call that
+#sprite "./graphics/flags/icons/plumage_occidental_black.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_bloodred.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_coral.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_firered.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_forestgreen.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_golden.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_lavender.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_palegreen.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_purple.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_seablue.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_skyblue.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/plumage_occidental_white.png"
+#basechance 0.01
+#chanceinc primaryrace Muuch 0.2
+#chanceinc primaryrace Zotz 0.2
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/pyramid_dynastic.png"
+#basechance 0.05
+#chanceinc primaryrace "Dynastic humans" 4.95
+#chanceinc magic earth 3
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/serpent_bone.png"
+#basechance 0.05
+#chanceinc primaryrace Ophidian 3.95
+#chanceinc magic death 3
+#convert_to_alpha
+#end
+
+#sprite "./graphics/flags/icons/tentacle2.png"
+#basechance 0.05
+#chanceinc primaryrace Illithid 3.95
+#convert_to_alpha
+#end
