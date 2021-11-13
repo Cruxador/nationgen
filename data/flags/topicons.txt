@@ -268,13 +268,6 @@
 #end
 
 #new
-#sprite "./graphics/flags/icons/0290.png"
-#basechance 0.05
-#chanceinc magic earth 2
-#convert_to_alpha
-#end
-
-#new
 #sprite "./graphics/flags/icons/0293.png"
 #basechance 0.05
 #chanceinc magic astral 2
